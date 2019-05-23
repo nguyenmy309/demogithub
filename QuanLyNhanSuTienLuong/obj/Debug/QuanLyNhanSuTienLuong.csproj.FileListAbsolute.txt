@@ -1,0 +1,158 @@
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\ApplicationInsights.config
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\csc.exe
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\System.Collections.Immutable.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\vbc.exe
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\VBCSCompiler.exe
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\VBCSCompiler.exe.config
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\QuanLyNhanSuTienLuong.dll.config
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\QuanLyNhanSuTienLuong.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\QuanLyNhanSuTienLuong.pdb
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Antlr3.Runtime.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.SqlServer.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.Web.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.WindowsServer.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ApplicationInsights.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Google.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Web.Infrastructure.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Newtonsoft.Json.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Owin.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Optimization.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Providers.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\WebGrease.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.Web.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.WindowsServer.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ApplicationInsights.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Optimization.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Antlr3.Runtime.pdb
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Newtonsoft.Json.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.SqlServer.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Providers.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Google.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\obj\Debug\QuanLyNhanSuTienLuong.csprojResolveAssemblyReference.cache
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\obj\Debug\QuanLyNhanSuTienLuong.dll
+c:\users\doanh le\documents\visual studio 2015\Projects\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\obj\Debug\QuanLyNhanSuTienLuong.pdb
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\ApplicationInsights.config
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\csc.exe
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\vbc.exe
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\QuanLyNhanSuTienLuong.dll.config
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\QuanLyNhanSuTienLuong.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\QuanLyNhanSuTienLuong.pdb
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Antlr3.Runtime.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.SqlServer.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.Web.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Newtonsoft.Json.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Owin.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Optimization.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Providers.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\WebGrease.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.Web.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Optimization.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Antlr3.Runtime.pdb
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Newtonsoft.Json.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\EntityFramework.SqlServer.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\System.Web.Providers.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\obj\Debug\QuanLyNhanSuTienLuong.csprojResolveAssemblyReference.cache
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\obj\Debug\QuanLyNhanSuTienLuong.dll
+C:\Users\Hoai\Desktop\qlns\QuanLyNhanSuTienLuong\QuanLyNhanSuTienLuong\obj\Debug\QuanLyNhanSuTienLuong.pdb
